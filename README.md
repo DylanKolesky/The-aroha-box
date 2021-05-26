@@ -9,7 +9,7 @@ Work in progress.
 
 ## Project Manager
 
--Aleta Chowfin
+- Aleta Chowfin
 
 ### Fundrasing Site
 
