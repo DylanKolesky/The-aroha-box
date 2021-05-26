@@ -3,9 +3,9 @@ Work in progress.
 
 # Stakeholders
 
--Kiri Russel
--Mum
--Brother
+- Kiri Russel
+- Mum
+- Brother
 
 ## Project Manager
 
@@ -13,7 +13,7 @@ Work in progress.
 
 ### Fundrasing Site
 
--UNICEF Give a Little
+- UNICEF Give a Little
 
 
 
